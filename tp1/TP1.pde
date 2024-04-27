@@ -15,7 +15,7 @@ void setup() {
 
 void draw() {
 
-  //Line para dividir
+  //Linea para dividir
   stroke(255);
   line(400, 0, 400, 400);
   //Ver coordenadas
@@ -28,7 +28,7 @@ void draw() {
 
   //Dibujo
 
-//tambor
+  //tambor
   line(440, 278, 610, 130);
   line(610, 130, 625, 135);
   line(625, 135, 645, 117);
@@ -37,4 +37,8 @@ void draw() {
   line(440, 278, 445, 300);
   line(445, 300, 465, 320);
   line(465, 320, 680, 142);
+
+
+  line(478, 310, 480, 313);
+  line(480, 313, 548, 256);
 }
